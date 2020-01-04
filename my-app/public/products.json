@@ -1,0 +1,154 @@
+[
+  {
+    "id": 0,
+    "title": "Происхождение",
+    "author": "Дэн Браун",
+    "image": "https://lacharme.com.ua/upload/images/showcase/1084.jpeg",
+    "price": 710,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "Джордж Оруэлл",
+    "image": "https://lacharme.com.ua/upload/images/showcase/348.jpg",
+    "price": 415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Девушка в тумане",
+    "author": "Донато Карризи",
+    "image": "https://lacharme.com.ua/upload/images/1550508084-250_3.png",
+    "price": 464,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Империя должна умереть",
+    "author": "Михаил Зыгарь",
+    "image": "https://lacharme.com.ua/upload/images/showcase/272.jpg",
+    "price": 741,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Земное притяжение",
+    "author": "Татьяна Устинова",
+    "image": "https://lacharme.com.ua/upload/images/showcase/347.jpg",
+    "price": 317,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Зулейха открывает глаза",
+    "author": "Гузель Яхина",
+    "image": "https://lacharme.com.ua/upload/images/showcase/1129.jpeg",
+    "price": 254,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title": "Очаровательный кишечник. Как самый могущественный орган управляет нами",
+    "author": "Джулия Эндерс",
+    "image": "https://lacharme.com.ua/upload/images/showcase/1151.jpeg",
+    "price": 573,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "iPhuck 10",
+    "author": "Виктор Пелевин",
+    "image": "https://lacharme.com.ua/upload/images/showcase/530.jpg",
+    "price": 246,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "7 навыков высокоэффективных людей: Мощные...",
+    "author": "Стивен Кови",
+    "image": "https://lacharme.com.ua/upload/images/showcase/803.jpg",
+    "price": 347,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Девушка во льду",
+    "author": "Роберт Брындза",
+    "image": "https://lacharme.com.ua/upload/images/product/523_0.jpg",
+    "price": 882,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "Магия утра. Как первый час дня определяет ваш успех",
+    "author": "Хэл Элрод",
+    "image": "https://lacharme.com.ua/upload/images/product/778_0.jpg",
+    "price": 829,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "title": "Азиатская европеизация. История Российского государства. Царь Петр...",
+    "author": "Борис Акунин",
+    "image": "https://lacharme.com.ua/upload/images/product/436_0.jpg",
+    "price": 389,
+    "rating": 2
+  },
+  {
+    "id": 12,
+    "title": "Ведьмак (сборник)",
+    "author": "Анджей Сапковский",
+    "image": "https://lacharme.com.ua/upload/images/product/949_2.jpeg",
+    "price": 424,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "title": "Атлант расправил плечи",
+    "author": "Айн Рэнд",
+    "image": "https://lacharme.com.ua/upload/images/product/88_0.jpg",
+    "price": 157,
+    "rating": 2
+  },
+  {
+    "id": 14,
+    "title": "Цена вопроса. Том 1",
+    "author": "Александра Маринина",
+    "image": "https://lacharme.com.ua/upload/images/product/209_0.jpg",
+    "price": 664,
+    "rating": 0
+  },
+  {
+    "id": 15,
+    "title": "Исчезнувшая",
+    "author": "Гиллиан Флинн",
+    "image": "https://lacharme.com.ua/upload/images/product/1045_1.jpeg",
+    "price": 476,
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "title": "Метро 2035",
+    "author": "Дмитрий Глуховский",
+    "image": "https://lacharme.com.ua/upload/images/product/927_0.png",
+    "price": 837,
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "title": "Снеговик",
+    "author": "Ю Несбё",
+    "image": "https://lacharme.com.ua/upload/images/product/1031_1.jpeg",
+    "price": 796,
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "title": "Как тренировать память. Не думайте о памяти – лучше используйте ее на все сто!",
+    "author": "Джонатан Хэнкок",
+    "image": "https://lacharme.com.ua/upload/images/product/349_0.jpg",
+    "price": 399,
+    "rating": 5
+  }
+]
